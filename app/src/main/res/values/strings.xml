@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ContactList</string>
+    <string name="add_new_employees">Add New Employees</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="occupation">Occupation</string>
+    <string name="email">Email</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">ADD</string>
+</resources>
